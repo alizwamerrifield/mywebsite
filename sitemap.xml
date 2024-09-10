@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://alizwamerrifield.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://alizwamerrifield.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://alizwamerrifield.github.io/mywebsite/contact-details.html</loc>
+<lastmod>2024-09-10T08:03:53+02:00</lastmod>
+</url>
+<url>
+<loc>https://alizwamerrifield.github.io/mywebsite/how-you-can-qualify-to-be-helped.html</loc>
+<lastmod>2024-09-10T08:19:57+02:00</lastmod>
+</url>
+<url>
+<loc>https://alizwamerrifield.github.io/mywebsite/lists-of-things-we-help-you-with.html</loc>
+<lastmod>2024-09-10T08:07:47+02:00</lastmod>
+</url>
+<url>
+<loc>https://alizwamerrifield.github.io/mywebsite/money-matters-as-2.html</loc>
+<lastmod>2024-09-10T08:05:23+02:00</lastmod>
+</url>
+</urlset>

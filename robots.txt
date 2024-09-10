@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alizwamerrifield.github.io/mywebsite/sitemap.xml
